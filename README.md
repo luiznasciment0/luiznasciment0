@@ -7,4 +7,4 @@ JavaScript Engineer :)
 ## Contact me
 
 *   [Twitter](https://twitter.com/luizpn_)
-*   [Linkedin](https://www.linkedin.com/in/luizpaulonascimento/)
+*   [LinkedIn](https://www.linkedin.com/in/luizpaulonascimento/)
