@@ -1,10 +1,24 @@
-## Luiz Nascimento
+## Hi, I'm Luiz Nascimento :)
 
-JavaScript Engineer :) 
-
-[![luiznasciment0](https://github-readme-stats.vercel.app/api/top-langs/?username=luiznasciment0&layout=compact&theme=midnight-purple) ](https://github.com/anuraghazra/github-readme-stats) 
+I'm a software engineer with experience using: <br/> 
+<ul>
+  <li><strong>JavaScript</strong></li>
+  <li><strong>TypeScript</strong></li>
+  <li><strong>React.js</strong></li>
+  <li><strong>Next.js</strong></li>
+  <li>Node.js</li>
+  <li>Jest</li>
+  <li>Testing Library</li>
+  <li>Styled Components</li>
+  <li>Storybook</li>
+  <li>Cypress</li>
+  <li>Express.js</li>
+  <li>Nest</li>
+  <li>Firebase, Firestore, Cloud Functions</li>
+</ul>
 
 ## Contact me
 
 *   [Twitter](https://twitter.com/luizpn_)
 *   [LinkedIn](https://www.linkedin.com/in/luizpaulonascimento/)
+
