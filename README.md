@@ -15,7 +15,8 @@ I'm a software engineer with experience using: <br/>
   <li>Express.js</li>
   <li>Nest</li>
   <li>Firebase, Firestore, Cloud Functions</li>
-</ul>
+</ul> 
+Learning Go :=
 
 ## Contact me
 
