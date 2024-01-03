@@ -2,6 +2,6 @@
 
 #### Contact me
 
-*   [Twitter](https://twitter.com/luizpn_)
+*   [Twitter](https://twitter.com/dev_luizpn)
 *   [LinkedIn](https://www.linkedin.com/in/luizpaulonascimento/)
 
